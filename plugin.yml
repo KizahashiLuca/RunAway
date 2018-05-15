@@ -1,0 +1,8 @@
+name: RunAway
+version: 0.0.1
+main: runaway.plugin.Runaway
+commands:
+  StartGame:
+    description: RunAwayゲームをスタートします
+    usage: /<command>
+    default: true
